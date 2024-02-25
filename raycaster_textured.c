@@ -7,6 +7,7 @@
 #define HEIGHT 720
 #define KEY_ESC 53
 
+// derlemek icin bunu kullan
 // gcc -framework OpenGL -framework AppKit -L./minilibx -lmlx -g raycaster_textured.c 
 
 typedef struct s_player
